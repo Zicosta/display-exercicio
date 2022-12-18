@@ -1,0 +1,32 @@
+body {
+  font-family: Arial;
+  margin: 50px;
+}
+
+h1 {
+  text-align: center;
+}
+h2 {
+  color: white;
+  margin: 0px;
+}
+.item {
+  background-color: #111;
+  color: #b2b2b2;
+  padding: 30px;
+  margin: 20px;
+  border-radius: 4px;
+}
+
+a {
+  display: inline-block;
+  background-color: #febe01;
+  color: #332200;
+  padding: 10px;
+  border-radius: 4px;
+  text-decoration: none;
+}
+
+span {
+  color: #febe01;
+}
